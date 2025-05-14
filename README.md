@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Fangyi (they/them). I'm currently looking for opportunities in Software
-Engineer / Research Scientist.
+I'm Fangyi (they/them).
 I am interested in programming languages, functional programming, type systems,
 proof assistants, concurrency, distributed systems, and many more.
 
